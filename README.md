@@ -10,11 +10,16 @@ Testing assignment operations and tweaking around some basics with Java.
 Practice #2 -
  - Concepts of Overloading
  - Testing the Longitude & latitude location of 2 cities.
- - Comparing and measuring the difference 
+ - Comparing and measuring the difference.
  
- Practice #3-
- - First time exposure to Processing library of Java - https://processing.org/reference/
+Practice #3-
+  - First time exposure to Processing library of Java - https://processing.org/reference/ .
   - Making a GUI app to dynamically fade the sun on a beach  based on time.
   
-  Practice #4-
+Practice #4-
   Display of a Smiley face, simple GUI app.
+
+Pratice #5
+  - Showing up of a Map using Google Map provider.
+  - Using MapUtils to have interactive features for users.
+  - Drawing a World Map on the Applet Canvas.
