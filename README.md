@@ -23,3 +23,9 @@ Pratice #5
   - Showing up of a Map using Google Map provider.
   - Using MapUtils to have interactive features for users.
   - Drawing a World Map on the Applet Canvas.
+
+  Pratice #6
+  - MyApplet exploration by showing map
+  - Building the color change buttons
+  - Using interactive envents to zoom in and zoom out of the map
+  - Event driven programming
